@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CathyyRyuu
 - 👀 I’m interested in fintech
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Next.js & Ruby on Rails
 - 💞️ I’m looking to collaborate on any finance related projects
 - 📫 How to reach me ...
 
