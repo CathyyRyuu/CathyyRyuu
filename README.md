@@ -1,4 +1,4 @@
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=CathyyRyuu.CathyyRyuu](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCathyyRyuu%2FCathyyRyuu&label=VISITORS&labelColor=%23d9e3f0&countColor=%23697689)" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCathyyRyuu%2FCathyyRyuu&label=VISITORS&labelColor=%23d9e3f0&countColor=%23697689" />
 
 
 - 👋 Hi, I’m @CathyyRyuu
