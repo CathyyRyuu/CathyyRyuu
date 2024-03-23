@@ -9,7 +9,7 @@
 
 <div align="left" >
   
-  👀 I have background in both Finance and CS
+  👀 I have background in both **Finance** and **CS**
   
   🌱 I’m currently working on a **Workout App** and a **E-commerce Website**
   
@@ -35,9 +35,9 @@
 
 <hr/>
 
-<h1 align="center"> <span style="font-size: smaller;">🛠️ Languages Frameworks Tools 🛠️</span></h1>
-
+<h2 align="center"> 🛠️ Languages Frameworks Tools 🛠️ </h2>
 <br/>
+
 <div align="center">
   <h4 align="center"> Programming Languages </h4>
   <a href="https://skillicons.dev">
@@ -63,7 +63,7 @@
 <div align="center">
   <h2>💪 My Contribution 💪</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com.cathyyryuu/cathyyryuu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cathyyryuu/cathyyryuu/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/><br/>
