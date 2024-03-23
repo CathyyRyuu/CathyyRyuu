@@ -1,7 +1,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCathyyRyuu%2FCathyyRyuu&label=VISITORS&labelColor=%23d9e3f0&countColor=%23697689" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4999&pause=1000&color=CCAAF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Hello%2C+I'm+Cathy+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4999&pause=1000&color=CCAAF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Hello%2C+I'm+Cathy+%F0%9F%98%8A" alt="Typing SVG" />
 </h1>
 
 <h4 align="center">A passionate software developer based in Vancouver 🍁 </h4>
@@ -47,7 +47,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,django,rails" /><br>
   </a>
-  <h4 align="center"> Database </h4>
+  <h4 align="center"> Databases </h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" /><br>
   </a>
@@ -55,7 +55,30 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,aws" /><br>
   </a>
+</div>
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>💪 My Contribution 💪</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com.cathyyryuu/cathyyryuu/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/><br/>
+<hr/>
+
+
+<h2 align="center">📈 Stats 📈</h2>
+<br>
+<div align=center>
+<!--   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=cathyyryuu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathyyryuu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
 
 
 <!---
