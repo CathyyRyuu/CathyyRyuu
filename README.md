@@ -9,15 +9,15 @@
 
 <div align="left" >
   
-  👀 I have background in both **Finance** and **CS**
+  👀 I have background in both **Finance** and **Computer Science**
   
-  🌱 I’m currently working on a **Workout App** and a **E-commerce Website**
+  🌱 I’m currently working on a **Workout App** and a **Smart Expense Tracker**
   
-  👩🏻‍💻 I'm currently learning about building **Blockchain** and **Smart Contracts**
+  👩🏻‍💻 I'm currently learning about building **React Native App** and **Dash with Plotly**
   
   📌 My focus are **Ruby on Rails, Next.js, Django, Python, JavaScript, React Native, PostgreSQL**
 
-  💜 I am a coffeeholic and fooddie, and I love working out and staying active!
+  💜 I am a coffeeholic and fooddie, and I love working out and travelling🌏!
   
 </div>
 
