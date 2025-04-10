@@ -13,11 +13,11 @@
   
   🌱 I’m currently working on a **Workout App** and a **Smart Expense Tracker**
   
-  👩🏻‍💻 I'm currently learning about building **React Native App** and **Dash with Plotly**
+  👩🏻‍💻 I'm currently learning about building **Dash with Plotly** and **AI Agent App**
   
-  📌 My focus are **Ruby on Rails, Next.js, Django, Python, JavaScript, React Native, PostgreSQL**
+  📌 My focus are **FastAPI, Ruby on Rails, Next.js, Django, Python, JavaScript, TypeScript, PostgreSQL**
 
-  💜 I am a coffeeholic and fooddie, and I love working out and travelling🌏!
+  💜 I am a coffeeholic and foodie, and I love working out and travelling🌏!
   
 </div>
 
