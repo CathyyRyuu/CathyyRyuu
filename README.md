@@ -13,7 +13,7 @@
   
   🌱 I’m currently working on a **Legal AI Agent (RAG)** and a **Smart Expense Tracker**
   
-  👩🏻‍💻 I'm currently learning about building **LLM Piplelines** and **AI Agent App**
+  👩🏻‍💻 I'm currently learning about building **LLM Pipelines** and **AI Agent App**
   
   📌 My focus are **FastAPI, Ruby on Rails, Next.js, Django, Python, JavaScript, TypeScript, PostgreSQL**
 
